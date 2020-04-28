@@ -1,0 +1,4 @@
+name: deathMessages
+version: 1.0
+main: deathmessages.Main
+description: sends a message when you die or kill someone
